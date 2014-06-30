@@ -1,0 +1,7 @@
+{
+  "name": "bd3-base#gh-pages",
+  "private": true,
+  "dependencies": {
+    "bd3-base": "BlackhawkWebComponents/bd3-base#master"
+  }
+}
